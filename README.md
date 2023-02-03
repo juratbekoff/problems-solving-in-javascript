@@ -1,1 +1,1 @@
-# problems-solving-in-nodejs
+# problems-solving-in-javascript
